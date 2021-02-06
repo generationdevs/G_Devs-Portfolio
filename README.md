@@ -7,3 +7,9 @@ Technologies used includes:
 *HTML5
 *CSS3
 *BOOTSTRAP
+
+Members:
+*Ilias
+*Matthew
+*Andy
+*Kevin
