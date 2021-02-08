@@ -4,12 +4,12 @@ This website was created by the Generation Devs team and it highlights interesti
 
 Technologies used includes:
 
-*HTML5
-*CSS3
-*BOOTSTRAP
+* HTML5
+* CSS3
+* BOOTSTRAP
 
 Members:
-*Ilias
-*Matthew
-*Andy
-*Kevin
+* Ilias
+* Matthew
+* Andy
+* Kevin
