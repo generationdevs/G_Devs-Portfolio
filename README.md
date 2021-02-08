@@ -44,6 +44,16 @@ GIT WORK FLOW
 
    4. git commit -m 'Commit_Message' (commit changes)
 
-   5. git push origin Branch_Name (push your changes on local machine to your forked copy)
+   5. when ready to push go back to main branch and run:
 
-   6. go to your forked copy of repo and start a pull request (make a request to merge changes with the main repo which should always be ready for deployment)
+   git pull upstream main
+
+   (grabs any changes made by others while your own changes were being made)
+
+   6. go back to your Branch_Name and run:
+
+   git merge main
+
+   7. git push origin Branch_Name (push your changes on local machine to your forked copy)
+
+   8. go to your forked copy of repo and start a pull request (make a request to merge changes with the main repo which should always be ready for deployment)
